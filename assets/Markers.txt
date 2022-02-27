@@ -1,0 +1,40 @@
+﻿Name	Start	Duration	Time Format	Type	Description
+In recent decades, technological change has become one of the key global challenges. 	0:00.000	0:00.000	decimal	Cue	
+Technology as such is a universal force in our societies.	0:17.602	0:00.000	decimal	Cue	
+capitalist relations with nature.	0:32.708	0:00.000	decimal	Cue	
+It would be a dark and scary place, 	0:49.928	0:00.000	decimal	Cue	
+This would be a world where we'd all have to use our brains, 	1:03.865	0:00.000	decimal	Cue	
+The characteristics of technological development are the diffusion of technology, 	1:16.628	0:00.000	decimal	Cue	
+the diffusion of new social relations, 	1:36.764	0:00.000	decimal	Cue	
+new regimes of power that are emerging in the wake of the technological revolution	1:55.675	0:00.000	decimal	Cue	
+our bodies and our material environment	2:10.000	0:00.000	decimal	Cue	
+how we distinguish the natural from the artificial.	2:38.957	0:00.000	decimal	Cue	
+social production, a major factor in determining the direction of social evolution	2:53.829	0:00.000	decimal	Cue	
+as I think of all the eyes that watch me day and night: 	3:03.510	0:00.000	decimal	Cue	
+the cameras in the streets, the sensors on the door, the microphones in the room. 	3:07.802	0:00.000	decimal	Cue	
+multiple lifeworlds	3:32.499	0:00.000	decimal	Cue	
+artificial intelligence, computation and surveillance 	3:48.319	0:00.000	decimal	Cue	
+the planet that feeds and sustains them	4:00.227	0:00.000	decimal	Cue	
+We are constantly bombarded with information, With things that aren't really real. 	4:10.487	0:00.000	decimal	Cue	
+The line between reality and fiction has blurred, And we've become slaves to this digital age.	4:24.846	0:00.000	decimal	Cue	
+We're living in a simulated reality, A world of constant distraction and noise	4:42.299	0:00.000	decimal	Cue	
+See through the lies and the illusions. 	5:03.904	0:00.000	decimal	Cue	
+Self-surveillance’s core functionality is to make it possible for the observer to view themselves through the eyes of others	5:24.348	0:00.000	decimal	Cue	
+I am the dopamine, the neurotransmitter of pleasure	5:38.767	0:00.000	decimal	Cue	
+keep playing that game, even when you're not sure why.	5:53.385	0:00.000	decimal	Cue	
+what keeps you going when things are tough. 	6:06.431	0:00.000	decimal	Cue	
+the rational, democratic, and efficient functioning of society	6:21.522	0:00.000	decimal	Cue	
+With the rise of the internet, 	6:33.311	0:00.000	decimal	Cue	
+It is the digital age that has transformed the way we work, socialize, and live	6:55.538	0:00.000	decimal	Cue	
+before the internet	7:07.861	0:00.000	decimal	Cue	
+We no longer think twice about using our phones 	7:18.064	0:00.000	decimal	Cue	
+halfway around the world. 	7:22.322	0:00.000	decimal	Cue	
+ways that we never thought possible	7:41.152	0:00.000	decimal	Cue	
+In this new world, every object is a resource for “mining” for value	7:49.303	0:00.000	decimal	Cue	
+The promise of a digital future 	8:05.302	0:00.000	decimal	Cue	
+A new breed of “entrepreneurs” 	8:13.804	0:00.000	decimal	Cue	
+The big tech companies 	8:24.673	0:00.000	decimal	Cue	
+But they’re just trying to make a buck 	8:28.548	0:00.000	decimal	Cue	
+All they want is your data	8:33.534	0:00.000	decimal	Cue	
+The path to a digital future begins with the right policies	8:36.620	0:00.000	decimal	Cue	
+In the digital age, the most important thing we can do is to create the right conditions for the flourishing of digital technologies.	8:43.364	0:00.000	decimal	Cue	
